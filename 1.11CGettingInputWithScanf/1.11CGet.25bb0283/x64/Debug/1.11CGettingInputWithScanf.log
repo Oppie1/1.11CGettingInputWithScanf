@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(11,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(11,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(11,10):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(11,10):
+      this argument is used as a buffer size
+  
+C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(14,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(14,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(14,10):
+      the missing variadic argument 2 is required by format string '%s'
+      C:\Users\atind\source\repos\1.11CGettingInputWithScanf\main.c(14,10):
+      this argument is used as a buffer size
+  
+  1.11CGettingInputWithScanf.vcxproj -> C:\Users\atind\source\repos\1.11CGettingInputWithScanf\x64\Debug\1.11CGettingInputWithScanf.exe
