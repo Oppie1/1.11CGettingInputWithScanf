@@ -8,10 +8,10 @@ int main()
 	int numberOfBabies;
 
 	printf("What is your name? \n");
-	scanf_s("%s", firstName);
+	scanf_s("%s", &firstName);
 
 	printf("Who are you going to marry \n");
-	scanf_s("%s", crush);
+	scanf_s("%s", &crush);
 
 	printf("How many kids will you have \n");
 	scanf_s("%d", &numberOfBabies);
